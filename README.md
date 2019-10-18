@@ -23,10 +23,10 @@ And now here's a life of pokemon in a particular order
 
 x = 0
 
-if x = 0
+if x = 0:
 	x + 1
 	print(x)
-else 
+else:
 	print("I like pie")
 
 ```
