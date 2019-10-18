@@ -19,7 +19,7 @@ And now here's a life of pokemon in a particular order
 
 ## Unsure what else to add so I'm writing this
 
-'' python
+```python
 
 x = 0
 
@@ -29,7 +29,7 @@ if x = 0
 else 
 	print("I like pie")
 
-''
+```
 
 > oooooo fancy block quote
 >> even fancier nest block quote
